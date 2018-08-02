@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_js_include">
+    <sp_js_include action="INSERT_OR_UPDATE">
+        <display_name>ml5.min.js</display_name>
+        <source>url</source>
+        <sys_class_name>sp_js_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-02 10:41:33</sys_created_on>
+        <sys_id>267693274fe3130023df45dba310c70b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ml5.min.js</sys_name>
+        <sys_package display_value="ml5JS" source="x_87436_ml5js">d9a553e34fe3130023df45dba310c7dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ml5JS">d9a553e34fe3130023df45dba310c7dd</sys_scope>
+        <sys_ui_script/>
+        <sys_update_name>sp_js_include_267693274fe3130023df45dba310c70b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-02 10:41:42</sys_updated_on>
+        <url>https://unpkg.com/ml5@0.1.1/dist/ml5.min.js</url>
+    </sp_js_include>
+</record_update>

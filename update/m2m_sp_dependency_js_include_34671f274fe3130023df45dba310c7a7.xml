@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_dependency_js_include">
+    <m2m_sp_dependency_js_include action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sp_dependency display_value="basic_ml5js_package">87365fe34fe3130023df45dba310c7ca</sp_dependency>
+        <sp_js_include display_value="p5.dom.min.js">d267db274fe3130023df45dba310c7e9</sp_js_include>
+        <sys_class_name>m2m_sp_dependency_js_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-02 10:45:15</sys_created_on>
+        <sys_id>34671f274fe3130023df45dba310c7a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>basic_ml5js_package.p5.dom.min.js</sys_name>
+        <sys_package display_value="ml5JS" source="x_87436_ml5js">d9a553e34fe3130023df45dba310c7dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ml5JS">d9a553e34fe3130023df45dba310c7dd</sys_scope>
+        <sys_update_name>m2m_sp_dependency_js_include_34671f274fe3130023df45dba310c7a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-02 10:45:15</sys_updated_on>
+    </m2m_sp_dependency_js_include>
+</record_update>
